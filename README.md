@@ -1,6 +1,4 @@
-Spoof-Me-Not 🕵️ | Forensic Email Header Analyzer
-
-Repository: change-mechanism-2
+#Spoof-Me-Not
 
 Spoof-Me-Not is an advanced, web-based forensic email header analyzer and anti-spoofing dashboard built with Python and Streamlit. Designed for cybersecurity analysts, system administrators, and OSINT investigators, this tool slices through malformed headers, detects deep domain forgeries, and automatically traces malicious payloads back to their true origin IP and network provider.
 
